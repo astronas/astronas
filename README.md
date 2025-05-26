@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-gt.fr](portfolio-gt.fr)
 
-- 📫 How to reach me **thibaut.gianola@gmail.com**
-
 - ⚡ Fun fact **I'm definitely not a developper**
 
 <h3 align="left">Connect with me:</h3>

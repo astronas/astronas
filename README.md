@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astronas&label=Profile%20views&color=0e75b6&style=flat" alt="astronas" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astronas&show_icons=true&theme=dark&locale=en" alt="astronas" height="400" width="400" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronas&theme=dark" alt="astronas" height="410" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astronas&show_icons=true&theme=dark&locale=en" alt="astronas" height="400" width="400" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronas&theme=dark" alt="astronas" /></p>
 
 <h3 align="left">Who am I ? :</h3>
 

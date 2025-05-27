@@ -2,13 +2,13 @@
 <h3 align="center">A young apprentice engineer in cloud, security and IT infrastructure.</h3>
 
 <br>
-<center><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsa2doYWIwMXFiYXphb2Q1aG1zdDQ0em9sMHkyb2htajhuYmFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="try-coding" height="200" width="200" /></center>
+<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsa2doYWIwMXFiYXphb2Q1aG1zdDQ0em9sMHkyb2htajhuYmFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="try-coding" height="200" width="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astronas&label=Profile%20views&color=0e75b6&style=flat" alt="astronas" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astronas" alt="astronas" /></a> </p>
 
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=astronas&show_icons=true&locale=en" alt="astronas" /></p></center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=astronas&show_icons=true&locale=en" alt="astronas" /></p>
 
 <h3 align="left">Who am I ? :</h3>
 

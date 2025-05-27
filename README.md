@@ -81,7 +81,8 @@
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/11094/11094456.png" alt="try-coding" height="40" width="40" /> My future ?</h2> 
 
-With a childhood spent fascinated by computers, I recall the thrill of my first encounter at 5 years old. As I delved deeper into the world of technology, a burning desire to secure and protect it emerged. This spark has driven me to develop a robust set of skills in IT security and architecture, with a focus on designing and improving high-performance infrastructures. As I continue on this path, my long-term goal is to achieve CISO status, using my expertise to safeguard organizations and drive innovation. #Security #Pentest #OSINT #Architecture #DevOps #Cloud #Infrastructure
+
+<p>With a childhood spent fascinated by computers 💻, I recall the thrill of my first encounter at 5 years old 🎉. As I delved deeper into the world of technology, a <strong>burning desire to secure and protect it emerged</strong> 🔒. This spark has driven me to develop a <strong>robust set of skills in IT security and architecture</strong>, with a focus on designing and improving <strong>high-performance infrastructures</strong> 💸. As I continue on this path, my <strong>long-term goal is to achieve CISO status</strong> 🏆, using my expertise to <strong>safeguard organizations and drive innovation</strong> 🚀. #Security 🔒 #Pentest 🔍 #OSINT 🕵️‍♂️ #Architecture 🏗️ #DevOps 🤖 #Cloud ☁️ #Infrastructure</p>
 
 <h3 align="center"> Road to CISO 🚀 </h3>
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1taml3d3BlYjhxNHBxNmVtOXV4eTZrbXVxbGp4azR5ODFyajFwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ioCNNt0RJfICFLXaoD/giphy.gif" alt="try-coding" /></p>

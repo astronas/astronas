@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Astronas</h1>
-<h3 align="left">Cloud ☁️, Security 🔐 and IT infrastructure 💻 apprentice engineer (4th year)</h3>
+<h3 align="left">Cloud ☁️, Security 🔐 and IT infrastructure 💻 engineer apprentice (4th year)</h3>
 
 <br>
 <p align="left"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsa2doYWIwMXFiYXphb2Q1aG1zdDQ0em9sMHkyb2htajhuYmFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="try-coding" height="200" width="200" /></p>

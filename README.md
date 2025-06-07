@@ -33,7 +33,7 @@
   <a href="https://learn.microsoft.com/fr-fr/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="ps" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><a href="https://www.gifsanimes.com/cat-lignes-562.htm"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
+<p align="center"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/7067/7067842.png" alt="try-coding" height="40" width="40" /> My favorite DevOps tools :</h2> 
 <p align="left">
@@ -53,7 +53,7 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><a href="https://www.gifsanimes.com/cat-lignes-562.htm"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
+<p align="center"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/16817/16817281.png" alt="try-coding" height="40" width="40" /> My favorite DBMS :</h2>
 <p align="left">
@@ -64,14 +64,14 @@
 </p>
 
 
-<p align="center"><a href="https://www.gifsanimes.com/cat-lignes-562.htm"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
+<p align="center"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/689/689317.png" alt="try-coding" height="40" width="40" /> My favorite OS :</h2> 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><a href="https://www.gifsanimes.com/cat-lignes-562.htm"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
+<p align="center"><img align="center" src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" border="0" alt="ligne-image-animee-0015" /></a></p>
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2723/2723587.png" alt="try-coding" height="40" width="40" /> My Git stats</h2> 
 

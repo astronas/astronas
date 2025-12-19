@@ -75,7 +75,7 @@
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2723/2723587.png" alt="try-coding" height="40" width="40" /> My Git stats</h2> 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-astronas-projects.vercel.app/api?username=astronas&show_icons=true&theme=dark&locale=en" alt="astronas" /></p> 
+<p align="center">&nbsp;<img align="center" src="github-readme-stats-rose-rho-51.vercel.app/api?username=astronas&show_icons=true&theme=dark&locale=en" alt="astronas" /></p> 
 
 <p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=astronas&theme=tokyonight" alt="astronas" /></p>
 

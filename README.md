@@ -77,7 +77,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-rose-rho-51.vercel.app/api?username=astronas&show_icons=true&theme=dark&locale=en" alt="astronas" /></p> 
 
-<p align="center">&nbsp;<img align="center" src="https:/github-readme-streak-stats-kappa-azure.vercel.app?user=astronas&theme=tokyonight" alt="astronas" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats-kappa-azure.vercel.app?user=astronas&theme=tokyonight" alt="astronas" /></p>
 
 <h2 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/128/11094/11094456.png" alt="try-coding" height="40" width="40" /> My future ?</h2> 
 

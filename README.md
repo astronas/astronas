@@ -17,7 +17,7 @@
 
 - 🎓 I'm studying at **[Sophia Ynov Campus](https://www.ynov.com/campus/sophia)**
 
-- 👨‍💻 All of my projects are available at **[portfolio-gt.fr](portfolio-gt.fr)** (WIP... available soon !)
+- 👨‍💻 All of my projects are available at **[tgianola.fr](https://tgianola.fr)** 
 
 - 📖 I’m currently learning **Terraform, Ansible and some other Microsoft sh*ts**
 

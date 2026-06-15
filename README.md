@@ -20,7 +20,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsa2doYWIwMXFiYXphb2Q1aG1zdDQ0em9sMHkyb2htajhuYmFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding" height="180" />
 </p>
 
----
+<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="35" /> Who am I?
 
@@ -35,36 +35,24 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZqazF4and1MDJ4cmZnZDg5ajZtNHdiNzM3NXAxdXU5YTZkbXpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="not-a-dev" height="120" />
 </p>
 
----
+<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
-## 🧠 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,powershell" alt="languages" height="50" />
-</p>
-
-## 🛠️ DevOps & Cloud Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,bash,django,docker,elasticsearch,git,grafana,jenkins,kubernetes,postman,redis,vagrant" alt="devops tools" height="50" />
-  <br/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="zapier" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white" alt="kibana" />
+  <sub><b>Languages & Shell</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,bash,linux" alt="languages" height="45" />
 </p>
-
-## 🗄️ Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres" alt="databases" height="50" />
+  <sub><b>DevOps & Cloud</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,git,grafana,elasticsearch,redis,vagrant,django,postman" alt="devops" height="45" />
 </p>
-
-## 🐧 Operating System
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" height="50" />
+  <sub><b>Databases</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres" alt="databases" height="45" />
 </p>
 
----
+<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
 ## 📊 My Git Stats
 
@@ -77,7 +65,7 @@
   <img src="https://github-readme-stats-rose-rho-51.vercel.app/api/top-langs/?username=astronas&layout=compact&theme=tokyonight&locale=en" alt="Top languages" height="150" />
 </p>
 
----
+<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
 ## 🚀 My future?
 

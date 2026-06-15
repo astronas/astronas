@@ -51,6 +51,10 @@
   <sub><b>Databases</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres" alt="databases" height="45" />
 </p>
+<p align="center">
+  <sub><b>Top Languages</b></sub><br/>
+  <img src="https://github-readme-stats-rose-rho-51.vercel.app/api/top-langs/?username=astronas&layout=compact&theme=tokyonight&locale=en" alt="Top languages" height="150" />
+</p>
 
 <p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
@@ -59,10 +63,6 @@
 <p align="center">
   <img src="https://github-readme-stats-rose-rho-51.vercel.app/api?username=astronas&show_icons=true&theme=tokyonight&locale=en" alt="GitHub stats" height="170" />
   <img src="https://github-readme-streak-stats-kappa-azure.vercel.app?user=astronas&theme=tokyonight" alt="GitHub streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-rose-rho-51.vercel.app/api/top-langs/?username=astronas&layout=compact&theme=tokyonight&locale=en" alt="Top languages" height="150" />
 </p>
 
 <p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>

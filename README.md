@@ -39,22 +39,28 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <sub><b>Languages & Shell</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,bash,linux" alt="languages" height="45" />
-</p>
-<p align="center">
-  <sub><b>DevOps & Cloud</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,git,grafana,elasticsearch,redis,vagrant,django,postman" alt="devops" height="45" />
-</p>
-<p align="center">
-  <sub><b>Databases</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres" alt="databases" height="45" />
-</p>
-<p align="center">
-  <sub><b>Top Languages</b></sub><br/>
-  <img src="https://github-readme-stats-rose-rho-51.vercel.app/api/top-langs/?username=astronas&layout=compact&theme=tokyonight&locale=en" alt="Top languages" height="150" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="top" align="center" width="40%">
+
+<sub><b>Most Used Languages</b></sub><br/>
+<img src="https://github-readme-stats-rose-rho-51.vercel.app/api/top-langs/?username=astronas&layout=compact&theme=tokyonight&locale=en" alt="Top languages" />
+
+</td>
+<td valign="top" align="center" width="60%">
+
+<sub><b>Languages & Shell</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,bash,linux" alt="languages" height="40" /><br/><br/>
+
+<sub><b>DevOps & Cloud</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,git,grafana,elasticsearch,redis,vagrant,django,postman" alt="devops" height="40" /><br/><br/>
+
+<sub><b>Databases</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres" alt="databases" height="40" />
+
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 

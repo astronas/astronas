@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://tgianola.fr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=0E75B6&lines=Cloud+%E2%98%81%EF%B8%8F+Engineer+apprentice;Security+%F0%9F%94%90+enthusiast;IT+Infrastructure+%F0%9F%92%BB+builder;Road+to+CISO+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=0E75B6&lines=Cloud+%E2%98%81%EF%B8%8F+Engineer+apprentice;Security+%F0%9F%94%90+enthusiast;IT+Infrastructure+%F0%9F%92%BB+builder
+    " alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,6 +13,10 @@
   </a>
   <a href="https://tgianola.fr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wiki.tgianola.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Wiki-00AAFF?style=for-the-badge&logo=book&logoColor=white
+    " alt="Wiki" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=astronas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>

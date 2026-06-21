@@ -72,19 +72,3 @@
 </p>
 
 <p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
-
-## 🚀 My future?
-
-> With a childhood spent fascinated by computers 💻, I still recall the thrill of my first encounter at **5 years old** 🎉. As I dove deeper into technology, a **burning desire to secure and protect it** emerged 🔒. That spark pushed me to build a **robust set of skills in IT security and architecture**, focused on designing and improving **high-performance infrastructures** 💸.
->
-> My **long-term goal is to reach CISO status** 🏆 — using my expertise to **safeguard organizations and drive innovation** 🚀.
-
-<p align="center">
-  <code>#Security 🔒</code> <code>#Pentest 🔍</code> <code>#OSINT 🕵️</code> <code>#Architecture 🏗️</code> <code>#DevOps 🤖</code> <code>#Cloud ☁️</code> <code>#Infrastructure</code>
-</p>
-
-<h3 align="center">Road to CISO 🚀</h3>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1taml3d3BlYjhxNHBxNmVtOXV4eTZrbXVxbGp4azR5ODFyajFwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ioCNNt0RJfICFLXaoD/giphy.gif" alt="road-to-ciso" />
-</p>

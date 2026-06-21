@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Astronas</h1>
+<h1 align="left">Hi 👋, I'm Astronas</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://tgianola.fr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&color=0E75B6&lines=Cloud+%E2%98%81%EF%B8%8F+Engineer+apprentice;Security+%F0%9F%94%90+enthusiast;IT+Infrastructure+%F0%9F%92%BB+builder;Road+to+CISO+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/thibaut-gianola" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,11 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=astronas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsa2doYWIwMXFiYXphb2Q1aG1zdDQ0em9sMHkyb2htajhuYmFqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding" height="180" />
-</p>
-
-<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="35" /> Who am I?
 
@@ -29,11 +24,6 @@
 - 👨‍💻 All my projects live at **[tgianola.fr](https://tgianola.fr)**
 - 📖 Currently learning **Terraform, Ansible** and *some other Microsoft sh\*ts* 🙃
 - ⛏️ Building **[YCloud](https://ycloud-sophia.netlify.app/)** — the private cloud provider 100% dedicated to my school's students!
-- 🤔 **Fun fact:** I'm definitely <u>not</u> a developer 😩 ...because:
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZqazF4and1MDJ4cmZnZDg5ajZtNHdiNzM3NXAxdXU5YTZkbXpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="not-a-dev" height="120" />
-</p>
 
 <p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
 
@@ -70,5 +60,3 @@
   <img src="https://github-readme-stats-rose-rho-51.vercel.app/api?username=astronas&show_icons=true&theme=tokyonight&locale=en" alt="GitHub stats" height="170" />
   <img src="https://github-readme-streak-stats-kappa-azure.vercel.app?user=astronas&theme=tokyonight" alt="GitHub streak" height="170" />
 </p>
-
-<p align="center"><img src="https://www.gifsanimes.com/data/media/562/ligne-image-animee-0015.gif" alt="separator" /></p>
